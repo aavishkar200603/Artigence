@@ -1,0 +1,19 @@
+.hub-view {
+    position: relative;
+  }
+  
+  .hub-image {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+  }
+  
+  .indicator {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: rgba(255, 0, 0, 0.5);
+    padding: 5px;
+    color: #fff;
+  }
+  
